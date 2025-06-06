@@ -27,6 +27,8 @@ Maven
 O Energy Monitor tem como objetivo principal identificar zonas prejudicadas por falta de energia elétrica, utilizando dados meteorológicos em tempo real. O sistema consulta informações climáticas, como ventos fortes, tempestades e altas temperaturas, para gerar alertas e recomendações personalizadas de uso de energia, ajudando a população e as equipes responsáveis a se prepararem para possíveis interrupções de energia.
 
 👥 Desenvolvedores
+
+
 Bryan Willian – RM 551305
 
 Gabriel Doms – RM 98630
